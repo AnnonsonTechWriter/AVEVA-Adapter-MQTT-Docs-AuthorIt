@@ -4,13 +4,13 @@ uid: index
 
 # Overview
 
-AVEVA Adapter for MQTT is a data-collection component that transfers time-series data from source devices to OMF endpoints in OSIsoft Cloud Services or PI Servers. Message Queuing Telemetry Transport (MQTT) is a messaging protocol created for Machine-to-Machine (M2M)/Internet of Things (IOT) communication. The adapter can connect to any device that uses the MQTT protocol for communication with constrained devices and server applications for data exchange.
+AVEVA Adapter for MQTT is a data-collection component that transfers time-series data from source devices to OMF endpoints in AVEVA Data Hub or PI Servers. Message Queuing Telemetry Transport (MQTT) is a messaging protocol created for Machine-to-Machine (M2M)/Internet of Things (IOT) communication. The adapter can connect to any device that uses the MQTT protocol for communication with constrained devices and server applications for data exchange.
 
 ![PI Adapter for MQTT architecture](images/pi-adapter-for-mqtt-architecture-diagram.png)
 
 ## Adapter installation
 
-You can install the adapter with a download kit that you can obtain from the OSIsoft Customer Portal. You can install the adapter on devices running either Windows or Linux operating systems.
+You can install the adapter with a download kit that you can obtain from the AVEVA Customer Portal. You can install the adapter on devices running either Windows or Linux operating systems.
 
 ## Adapter configuration
 
