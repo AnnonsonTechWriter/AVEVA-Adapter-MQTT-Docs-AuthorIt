@@ -33,4 +33,4 @@ Similarly, we may want to have two sub-sections to discuss all the difference in
 <AdapterComponentId>.<Topic>.<ValueField>
 ```
 
-**Note:** Naming convention is affected by `StreamIdPrefix` and `DefaultStreamIdPattern` settings in the data source configuration. For more information, see [PI Adapter for MQTT data source configuration](xref:PIAdapterForMQTTDataSourceConfiguration).
+**Note:** Naming convention is affected by `StreamIdPrefix` and `DefaultStreamIdPattern` settings in the data source configuration. For more information, see [AVEVA Adapter for MQTT data source configuration](xref:PIAdapterForMQTTDataSourceConfiguration).
